@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    position: relative;
+    width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    top: 550px;
+}
+
+img {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+}
+
